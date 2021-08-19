@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.css_tutorials.category.CSS 基础": {
+    "message": "CSS 基础",
+    "description": "The label for category CSS 基础 in sidebar css_tutorials"
+  }
+}

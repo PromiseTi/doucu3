@@ -1,0 +1,50 @@
+{
+  "title": {
+    "message": "星硕",
+    "description": "The title in the navbar"
+  },
+  "item.label.FAQ": {
+    "message": "FAQ",
+    "description": "Navbar item with label FAQ"
+  },
+  "item.label.Parts": {
+    "message": "Parts",
+    "description": "Navbar item with label Parts"
+  },
+  "item.label.About": {
+    "message": "About",
+    "description": "Navbar item with label About"
+  },
+  "item.label.参与开源的方式": {
+    "message": "参与开源的方式",
+    "description": "Navbar item with label 参与开源的方式"
+  },
+  "item.label.角色": {
+    "message": "角色",
+    "description": "Navbar item with label 角色"
+  },
+  "item.label.激励模式": {
+    "message": "激励模式",
+    "description": "Navbar item with label 激励模式"
+  },
+  "item.label.为什么要建立Web3 medical labs？": {
+    "message": "为什么要建立Web3 medical labs？",
+    "description": "Navbar item with label 为什么要建立Web3 medical labs？"
+  },
+  "item.label.DicomNetwork": {
+    "message": "DicomNetwork",
+    "description": "Navbar item with label DicomNetwork"
+  },
+  "item.label.Who we are": {
+    "message": "Who we are",
+    "description": "Navbar item with label Who we are"
+  },
+  "item.label.Teams": {
+    "message": "Teams",
+    "description": "Navbar item with label Teams"
+  },
+  "item.label.联系我们": {
+    "message": "联系我们",
+    "description": "Navbar item with label 联系我们"
+  }
+}
