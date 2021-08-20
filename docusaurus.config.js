@@ -3,7 +3,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: '星硕',
+  title: 'Welcome to web3medicallabs',
   tagline: 'Dinosaurs are cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -31,19 +31,19 @@ module.exports = {
           items: [
             {
               label: '参与开源的方式',
-              to: 'docs/faq/openSource',
+              to: 'docs/Faq/openSource',
             },
             {
               label: '角色',
-              to: 'docs/faq/role',
+              to: 'docs/Faq/role',
             },
             {
               label: '激励模式',
-              to: 'docs/faq/excitation',
+              to: 'docs/Faq/excitation',
             },
             {
               label: '为什么要建立Web3 medical labs？',
-              to: 'docs/faq/labs',
+              to: 'docs/Faq/labs',
             },
           ],
         },
@@ -76,15 +76,15 @@ module.exports = {
           items: [
             {
               label: 'Who we are',
-              to: 'docs/about/are',
+              to: 'docs/About/are',
             },
             {
               label: 'Teams',
-              to: 'docs/about/teams',
+              to: 'docs/About/teams',
             },
             {
               label: '联系我们',
-              to: 'docs/about/contactus',
+              to: 'docs/About/contactus',
             },
           ],
         },

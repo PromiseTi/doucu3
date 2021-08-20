@@ -327,7 +327,12 @@ header h2 {
 .learn-how .hero__subtitle {
   color: var(--color-secondary-text);
 }
-
+.hero {
+  background: url('/static/img/img1.svg');
+}
+.margin-top-sm {
+  margin-top: 20px;
+}
 /* button */
 .button {
   margin: 0 10px;
