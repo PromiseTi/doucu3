@@ -46,5 +46,17 @@
   "item.label.联系我们": {
     "message": "联系我们",
     "description": "Navbar item with label 联系我们"
+  },
+  "item.label.DOCS": {
+    "message": "DOCS",
+    "description": "Navbar item with label DOCS"
+  },
+  "item.label.Resource": {
+    "message": "Resource",
+    "description": "Navbar item with label Resource"
+  },
+  "item.label.MarketPlace": {
+    "message": "MarketPlace",
+    "description": "Navbar item with label MarketPlace"
   }
 }

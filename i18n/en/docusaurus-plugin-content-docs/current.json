@@ -6,5 +6,25 @@
   "sidebar.css_tutorials.category.CSS 基础": {
     "message": "CSS 基础",
     "description": "The label for category CSS 基础 in sidebar css_tutorials"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "About",
+    "description": "The label for category About in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Faq": {
+    "message": "Faq",
+    "description": "The label for category Faq in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.MarketPlace": {
+    "message": "MarketPlace",
+    "description": "The label for category MarketPlace in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Parts": {
+    "message": "Parts",
+    "description": "The label for category Parts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Resource": {
+    "message": "Resource",
+    "description": "The label for category Resource in sidebar tutorialSidebar"
   }
 }
