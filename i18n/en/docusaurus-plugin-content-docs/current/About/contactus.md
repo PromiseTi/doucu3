@@ -1,10 +1,10 @@
 ---
 id: contactus
-title: 宣发频道
+title: Contact Us
 ---
-
-微信公众号;
 
 Github;
 
 Discord;
+
+telegram group;

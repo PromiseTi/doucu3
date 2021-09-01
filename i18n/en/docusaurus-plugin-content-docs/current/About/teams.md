@@ -1,6 +1,14 @@
 ---
 id: teams
-title: Web3 medical labs创始成员
+title: Founding member of Web3 medical labs
 ---
 
-SINSO、同济大学医学院骨科、ownership、星际视界、why lab 探索实验室等
+SINSO
+
+Department of Orthopedics, Tongji University of Medicine
+
+ownership
+
+ipfsnews
+
+why lab exploration lab, etc.

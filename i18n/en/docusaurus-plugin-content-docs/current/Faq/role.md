@@ -1,20 +1,20 @@
 ---
 id: role
-title: 角色
+title: User
 ---
 
 ## User
 
-很多用户本身可能是代码使用者（同时就是开发者群体自身），我们有各种代码，或许还能看到成熟度极高的商品化软件原型，直接用户还包括了患者和医生，他们可以从代码库中各取所需，很多代码具有非常强的生产力，甚至必要的时候可以挽救一个病人的生命。
+Many users themselves may be code users (at the same time as the developer community themselves), we have a variety of codes, and may also be able to see highly mature commercial software prototypes. Direct users also include patients and doctors. They can get what they need from the code library. Many codes are very productive and can even save a patient's life when necessary.
 
 ## Contributor
 
-开源项目的代码，作品都是由项目社区的成员创建、测试、使用、讨论和优化构成。这些过程需要不同技能、不同参与程度的人。 所以，开源社群不仅仅是纯技术或者编程类的工作。撰写或更新文档、翻译、向他人推荐该项目、组织线下活动等都属于 contributor。
+The code and works of open source projects are created, tested, used, discussed and optimized by members of the project community. These processes require people with different skills and different levels of participation. Therefore, the open source community is not just purely technical or programming work. Writing or updating documents, translating, recommending the project to others, organizing offline events, etc. are all contributors.
 
 ## Committer
 
-Committer 通常在项目日常运营过程中通过各种贡献积累，得到项目核心维护团队的提名和认可，最终从一般贡献者成为提交者，并且在开源项目中拥有更高的权限，他们是拥有代码仓库写操作权限的开发者。一般情况 Committer 有代码仓库的权限可以直接提交代码，通常也有权 Review （检视）别人的代码决定是否可以合并提交。作为一个开源项目的参与者，能够成为 Committer 本身就是一种荣誉，也是鼓励大家能够持续参与、并保持社区健康的很重要的原因。比如成为 Linux 的 Committer 可能是很多开源项目工程师的小梦想。
+Committer usually accumulates various contributions in the daily operation of the project, is nominated and recognized by the core maintenance team of the project, and finally becomes a committer from general contributors, and has higher authority in open source projects. They are developers who have permission to write and operate the code repository.In general, committer has the authority of the code warehouse to submit code directly, and usually has the right to review other people's code to determine whether it can be merged and submitted. As a participant in an open source project, being a committer is an honor in itself, and it is also a very important reason to encourage everyone to continue to participate and keep the community healthy. For example, becoming a committer for Linux may be the small dream of many open source project engineers.
 
 ## Maintainer
 
-致力于一个项目并促进该项目发展的用户。常常是该开源项目的发起者或 owner，也可以是一个团队。他们在开源项目中拥有对此项目的最高决策权，决定项目的功能、战略、发展方向。SINSO 作为 web3 medicallabs 的发起人，当然 SINSO 创始人代表 SINSO 团队是这个项目的 Maintainer,但是 web3 medicallabs 并不属于 SINSO。我们需要一个理事会成员，我们会成立一个项目管理委员会，定期进行决策和投票会议。
+The user who is committed to a project and promotes the development of the project is often the initiator or owner of the open source project, or it can be a team. They have the highest decision-making power in the open source project, and determine the function, strategy, and development direction of the project. SINSO is the initiator of web3 medical labs. Of course, the founder of SINSO represents the SINSO team as the maintainer of this project, but web3 medical labs does not belong to SINSO. We need a board member, and we will set up a project management committee to conduct regular decision-making and voting meetings.

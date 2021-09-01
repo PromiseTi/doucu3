@@ -1,20 +1,20 @@
 ---
 id: openSource
-title: 参与开源的方式
+title: Ways to participate in open source
 ---
 
-直接参与开源项目的开发；
+Participate directly in the development of open source projects;
 
-参与开源项目的测试；
+Participate in the testing of open source projects;
 
-为开源项目提交 Bug、修复 Bug；
+Submit and fix bugs for open source projects;
 
-开发开源项目的插件；
+Develop plug-ins for open source projects;
 
-参与开源项目推广；
+Participate in the promotion of open source projects;
 
-参与开源项目的文档翻译；
+Participate in document translation of open source projects;
 
-参与投资好的开源项目；
+Participate in well-invested open source projects;
 
-帮助开源项目做商业转化包括商业、法律咨询等。
+Helping open source projects in commercial transformation, including business, legal consulting, etc.

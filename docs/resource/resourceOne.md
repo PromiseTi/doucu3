@@ -1,4 +1,0 @@
----
-id: resourceOne
-title: resourceOne
----
