@@ -1,6 +1,6 @@
 ---
 id: sin1
-title: 1 Timeline
+title: 1 Timeline1
 sidebar_position: 1
 ---
 
